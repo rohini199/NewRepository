@@ -7,6 +7,7 @@ public class ClassB {
 System.out.println("This is Class B");
 System.out.println("Bye");
 System.out.println("Good bye");
+System.out.println("see you later");
 	}
 
 }
