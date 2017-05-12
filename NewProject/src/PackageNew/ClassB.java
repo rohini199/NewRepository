@@ -8,6 +8,7 @@ System.out.println("This is Class B");
 System.out.println("Bye");
 System.out.println("Good bye");
 System.out.println("see you later");
+System.out.println("tweet");
 	}
 
 }
