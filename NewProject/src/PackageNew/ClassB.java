@@ -7,6 +7,7 @@ public class ClassB {
 System.out.println("This is Class B");
 System.out.println("this is class B code update 1");
 System.out.println("this is class B code update 2");
+System.out.println("this is class B code update 3");
 	}
 
 }
